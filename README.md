@@ -23,6 +23,16 @@ Someone asked following on Symfony Slack workspace;
 
 So this repository contains simple example how to make that happen.
 
+## TL;DR
+
+* You need to install `phpdocumentor/reflection-docblock`
+
+OR
+
+* You need to implement "add" methods to your classes
+
+_IF_ you're using docblock annotations in your DTOs.
+
 ## Installation
 
 1. Clone this repository
