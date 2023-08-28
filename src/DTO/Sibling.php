@@ -2,7 +2,7 @@
 
 namespace App\DTO;
 
-class Sibling
+readonly class Sibling
 {
     public function __construct(
         public string $name = '',

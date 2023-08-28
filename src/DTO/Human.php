@@ -2,7 +2,7 @@
 
 namespace App\DTO;
 
-class Human
+readonly class Human
 {
     /**
      * @param Sibling[] $siblings
