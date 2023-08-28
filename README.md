@@ -31,6 +31,10 @@ OR
 
 * You need to implement "add" methods to your classes
 
+OR
+
+* Use `composer require symfony/serializer-pack` if you're using Symfony framework
+
 _IF_ you're using docblock annotations in your DTOs.
 
 ## Installation
